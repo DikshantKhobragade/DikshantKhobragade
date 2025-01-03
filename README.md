@@ -56,5 +56,5 @@
 </p>
 <br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dikshantkhobragade&show_icons=true&locale=en" alt="dikshantkhobragade" />
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dikshantkhobragade&" alt="dikshantkhobragade" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=dikshantkhobragade&show_icons=true&locale=en" alt="dikshantkhobragade" />
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=dikshantkhobragade&" alt="dikshantkhobragade" /></p>
