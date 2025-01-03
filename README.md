@@ -1,28 +1,60 @@
-![logo](https://github.com/DikshantKhobragade/DikshantKhobragade/blob/main/github-header-image.png)
-<h1 align="center">Hi 👋, I'm Dikshant Khobragade</h1>
-<h3 align="center">A passionate Data Analyst from India</h3>
+<h1 align="center">Hi there! 👋 I'm Dikshant Khobragade</h1>
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dikshantkhobragade&label=Profile%20views&color=0e75b6&style=flat" alt="dikshantkhobragade" /> </p>
-
-- 🌱 I’m currently learning **Data Analyst Course**
-
-- 👨‍💻 All of My projects are available at https://github.com/DikshantKhobragade?tab=repositories
-
-<h3 align="left">Connect with me:</h3>
-
-<a href="khobragadedikshant1@gmail.com"> <img src="https://logohistory.net/wp-content/uploads/2023/12/Gmail-Logo.png" width="40" height="40"/> </a>
-<p align="left">
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" width="600"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://www.powerbi.com/" target="_blank" rel="noreferrer"> <img src="https://logohistory.net/wp-content/uploads/2023/05/Power-BI-Symbol.png" width="40" height="40"/> </a> <a href="https://www.excel.com/" target="_blank" rel="noreferrer"> <img src="https://www.pngfind.com/pngs/m/38-383271_excel-logo-png-microsoft-excel-logo-transparent-png.png" width="40" height="40"/> </a> 
- <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> <img src="https://banner2.cleanpng.com/20180920/zg/kisspng-tableau-software-computer-software-logo-business-i-solutions-hiq-labs-1713937028400.webp" width="40" height="40"/> </a></p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dikshantkhobragade&show_icons=true&locale=en&layout=compact" alt="dikshantkhobragade" /></p>
+<h2 align="center">🚀 About Me</h2>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dikshantkhobragade&show_icons=true&locale=en" alt="dikshantkhobragade" /></p>
+- 🎓 I'm a passionate **Data Analyst** from **India** with a knack for turning data into actionable insights.  
+- 🧠 Skilled in **Python**, **Excel**, **Power BI**, **Tableau**, and **MySQL**.  
+- 🌟 Love solving problems with data and creating impactful visualizations.  
+- 💡 Always learning new tools and techniques to sharpen my craft.  
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dikshantkhobragade&" alt="dikshantkhobragade" /></p>
+---
+
+<h2 align="center">🔧 Tools & Technologies</h2>
+
+<p align="center">
+  <a href="https://www.python.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python"/></a>
+ <a href="https://www.excel.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" alt="Excel"/></a>
+  <a href="https://www.powerbi.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI"/></a>
+ <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/000000/tableau-software.png" alt="Tableau"/></a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL"/></a>
+</p>
+
+---
+
+<h2 align="center">📊 My Projects</h2>
+
+<p align="center">
+  Check out my latest projects on <a href="https://github.com/DikshantKhobragade?tab=repositories">GitHub</a>
+</p>
+
+<p align="center">
+  <img src="https://i.pinimg.com/originals/5c/c8/72/5cc872d4469b89084a1ac53701ab1a63.gif" alt="Portfolio GIF" width="600"/>
+</p>
+
+---
+
+<h2 align="center">📫 Let's Connect</h2>
+
+<p align="center">
+  <a href="mailto:khobragadedikshant7@gmail.com">
+    <img src="https://img.icons8.com/fluency/48/000000/gmail-new.png" alt="Email"/>
+  </a>
+</p>
+
+---
+
+<h2 align="center">🌟 Fun Fact</h2>
+
+<p align="center">
+  I believe <strong>data</strong> has the power to change the world 🚀
+</p>
+<br>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dikshantkhobragade&show_icons=true&locale=en" alt="dikshantkhobragade" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dikshantkhobragade&" alt="dikshantkhobragade" /></p>
