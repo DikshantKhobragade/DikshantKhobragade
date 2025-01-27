@@ -93,4 +93,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dikshantkhobragade&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" width="400" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dikshantkhobragade&theme=tokyonight" alt="GitHub Streak" width="400" />
+ <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dikshantkhobragade&show_icons=true&locale=en&layout=compact&theme=radical" alt="dikshantkhobragade"/>
+
 </p>
