@@ -19,8 +19,6 @@
   💡 I’m constantly learning new tools and techniques to sharpen my skills and stay ahead in the data-driven world.<br>
 </div>
 
-
-
 ---
 
 <h2 align="center">
@@ -29,19 +27,19 @@
 
 <p align="center">
   <a href="https://www.python.org/" target="_blank"> 
-    <img src="https://img.icons8.com/color/64/000000/python--v1.png" alt="Python" title="Python" style="margin: 10px;"/> 
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" title="Python" style="margin: 10px;"/> 
   </a>
   <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank"> 
-    <img src="https://img.icons8.com/color/64/000000/microsoft-excel-2019--v1.png" alt="Excel" title="Excel" style="margin: 10px;"/> 
+    <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" title="Excel" style="margin: 10px;"/> 
   </a>
   <a href="https://powerbi.microsoft.com/" target="_blank"> 
-    <img src="https://img.icons8.com/color/64/000000/power-bi.png" alt="Power BI" title="Power BI" style="margin: 10px;"/> 
+    <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" title="Power BI" style="margin: 10px;"/> 
   </a>
   <a href="https://www.tableau.com/" target="_blank"> 
-    <img src="https://img.icons8.com/color/64/000000/tableau-software.png" alt="Tableau" title="Tableau" style="margin: 10px;"/> 
+    <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" title="Tableau" style="margin: 10px;"/> 
   </a>
   <a href="https://www.mysql.com/" target="_blank"> 
-    <img src="https://img.icons8.com/color/64/000000/mysql-logo.png" alt="MySQL" title="MySQL" style="margin: 10px;"/> 
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" title="MySQL" style="margin: 10px;"/> 
   </a>
 </p>
 
@@ -70,7 +68,13 @@
 
 <p align="center">
   <a href="mailto:khobragadedikshant7@gmail.com" style="text-decoration: none;">
-    <img src="https://img.icons8.com/fluency/64/000000/gmail-new.png" alt="Gmail" title="Email Me"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" title="Email Me"/>
+  </a>
+  <a href="https://www.linkedin.com/in/your-linkedin-profile" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" title="Connect on LinkedIn"/>
+  </a>
+  <a href="https://twitter.com/your-twitter-handle" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" title="Follow me on Twitter"/>
   </a>
 </p>
 
@@ -93,6 +97,28 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dikshantkhobragade&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" width="400" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dikshantkhobragade&theme=tokyonight" alt="GitHub Streak" width="400" />
- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dikshantkhobragade&show_icons=true&locale=en&layout=compact&theme=radical" alt="dikshantkhobragade"/>
+</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dikshantkhobragade&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" width="400"/>
+</p>
+
+---
+
+<h2 align="center">
+  🏆 <span style="color:#FFD700;">GitHub Trophies</span> 🏆
+</h2>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=dikshantkhobragade&theme=onedark&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+</p>
+
+---
+
+<h2 align="center">
+  ✨ <span style="color:#9C27B0;">Thank You for Visiting!</span> ✨
+</h2>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dikshantkhobragade&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views" />
 </p>
